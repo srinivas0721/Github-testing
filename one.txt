@@ -1,3 +1,6 @@
 this is a test file for github
 
-ading file to the folder and commit it 
+ading file to the folder and commit it
+
+adding file1 text for checking 
+also adding file2 for testing 
